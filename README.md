@@ -31,6 +31,14 @@ Every response carries the contract: `eli_uri` (a full ELI URL, e.g.
 
 ## Install
 
+Run it with no install step (once published to PyPI):
+
+```bash
+uvx dk-eli-mcp
+```
+
+Or from source:
+
 ```bash
 cd dk-eli-mcp
 pip install -e .
