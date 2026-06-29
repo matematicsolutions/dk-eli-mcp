@@ -1,5 +1,7 @@
 # dk-eli-mcp
 
+<!-- mcp-name: io.github.matematicsolutions/dk-eli-mcp -->
+
 An MCP server for the Danish **Retsinformation** legal database (`retsinformation.dk`). It
 fetches Danish legislation as LexDania 2.1 XML behind native ELI URIs, with verifiable
 citations.
