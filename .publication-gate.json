@@ -1,0 +1,4 @@
+{
+  "allow_paths": ["tests/fixtures/"],
+  "_note": "tests/fixtures/ holds verbatim public Retsinformation XML. Danish document/journal numbers trip the Polish REGON detector (false positives); the fixtures carry no secrets and no Polish personal data."
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dk-eli-mcp": {
+      "command": "dk-eli-mcp",
+      "env": {
+        "DK_ELI_BASE_URL": "https://www.retsinformation.dk",
+        "DK_ELI_API_URL": "https://api.retsinformation.dk",
+        "DK_ELI_CACHE_DIR": "~/.matematic/cache/dk-eli",
+        "DK_ELI_AUDIT_DIR": "~/.matematic/audit"
+      }
+    }
+  }
+}

@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id4f670fa3-bc80-4fb8-b7b6-04a58014a7e9" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2022/05/17/BEKH.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id5fbc30e3-2f85-472a-b941-2cb004ba3f9d">
+    <DocumentType>BEK H#LOKDOK04</DocumentType>
+    <Rank>B</Rank>
+    <AccessionNumber>B20240022705</AccessionNumber>
+    <DocumentId>BE009857</DocumentId>
+    <UniqueDocumentId>242209</UniqueDocumentId>
+    <DocumentTitle>Bekendtgørelse om beregning af og fradrag i fleksløntilskud</DocumentTitle>
+    <Year>2024</Year>
+    <DiesSigni>2024-03-07</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <StartDate REFid="submit_1">2024-03-07</StartDate>
+    <EndDate REFid="submit_1">2026-06-26</EndDate>
+    <Status>Historic</Status>
+    <Number>227</Number>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DiesEdicti>2024-03-07</DiesEdicti>
+    <DateOfHistoricMark>2026-06-18</DateOfHistoricMark>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20240028029</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2024-03-01</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af lov om en aktiv beskæftigelsesindsats</Ref_Text>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Jens Erik Zebis</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Kirsten Brix Pedersen</Signature>
+    <PlaceOfSignature>Styrelsen for Arbejdsmarked og Rekruttering</PlaceOfSignature>
+    <JournalNumber>Beskæftigelsesmin.,\nStyrelsen for Arbejdsmarked og Rekruttering, j.nr. 24/01354</JournalNumber>
+    <Ministry>Beskæftigelses- og Ligestillingsministeriet</Ministry>
+    <AdministrativeAuthority>Styrelsen for Arbejdsmarked og Rekruttering</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id0fafc498-542b-453b-92e8-331e6812d7fd">
+    <Titel id="id22813e27-ef2b-4df2-8e20-a63a1f8f65b5">
+      <Linea>
+        <Char>Bekendtgørelse om beregning af og fradrag i fleksløntilskud</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id197efde3-d1cf-4d9d-9647-4366851fb912">
+    <Indledning id="id237c1dba-ea84-48a1-9caa-ffaac28b08c7">
+      <Exitus>
+        <Linea>
+          <Char>I medfør af § 139, stk. 1, i lov om en aktiv beskæftigelsesindsats, jf. lovbekendtgørelse nr. 701 af 22. maj 2022, som ændret ved lov nr. 1769 af 28. december 2023, fastsættes efter bemyndigelse:</Char>
+        </Linea>
+      </Exitus>
+    </Indledning>
+    <Afsnit id="id847014c8-3aba-46e4-ab3a-52f2f3b5cc6d" localId="1">
+      <Kapitel id="id4c206ac3-dca6-481e-ab3a-4632dd848bc2" localId="1">
+        <ParagrafGruppe>
+          <Paragraf id="id6f8f53d4-6bed-4b7f-9dd2-1f84674f113a" localId="1">
+            <Explicatus>§ 1.</Explicatus>
+            <Stk id="id0826cffd-8d05-4390-a768-c443cee27d3e">
+              <Exitus>
+                <Linea>
+                  <Char>I denne bekendtgørelse forstås ved:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus id="id5b71da15-a0e2-48bc-bc68-069137e995c9">
+                <Index>
+                  <Indentatio id="id4c334f18-275f-40b2-a094-66798a05af88" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Lønindtægt:</Char>
+                      </Linea>
+                    </Exitus>
+                    <Exitus id="id17b7ac7c-4a99-4648-8d56-9815017ea1f7">
+                      <Index>
+                        <Indentatio id="idab6129ea-6197-4439-bde8-a9c77de46b40" formaInd="Litra">
+                          <Explicatus>a)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Løn, som er A-indkomst eller B-indkomst, hvoraf der skal betales arbejdsmarkedsbidrag og det samlede bidrag til en pensionsordning, som er led i et ansættelsesforhold, herunder ferietillæg.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                        <Indentatio id="id00c5d5a1-323d-4cdf-93cd-1d306d4ba792" formaInd="Litra">
+                          <Explicatus>b)</Explicatus>
+                          <Exitus>
+                            <Linea>
+                              <Char>Løn, som er indberettet til indkomstregisteret, jf. lov om et indkomstregister, som er optjent ombord på skibe m.v. registeret i Dansk Internationalt Skibsregister (DIS), jf. sømandsbeskatningslovens §§ 5-8.</Char>
+                            </Linea>
+                          </Exitus>
+                        </Indentatio>
+                      </Index>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id8804f111-cee4-4acd-826b-d2f4893e4c98" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Det samlede bidrag til en pensionsordning, som er led i et ansættelsesforhold: Den ansattes eget og arbejdsgiverens bidrag til en pensionsordning, som er led i et ansættelsesforhold og fastsat på baggrund af en overenskomst, herunder lokaloverenskomst eller en aftale mellem den ansatte og arbejdsgiveren.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id3b2bd6cc-1b79-4155-8ffe-4f273c57d41d" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Indtægt fra selvstændig bibeskæftigelse: Overskud før renter og andre finansielle poster, inklusive løn eller andre beløb, der er udtaget til eget forbrug og beløb, som er overført til virksomhedsordningen efter virksomhedsskattelovens regler.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id995e7707-abe1-4702-8f74-7ba26e375094" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Lønloft: Det beløb, som fleksløntilskud, løn fra arbejdsgiveren og eventuelle andre indtægter, jf. § 3, stk. 3, højst kan udgøre, jf. § 12 og 13.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Stk>
+            <Stk id="id281ea9a4-c79a-416e-82f8-aee1e6816ad2">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Løn efter stk. 1, nr. 1, litra b, skal omregnes til bruttoløn efter reglerne i bekendtgørelse om beregning af dagpengesatsen for lønmodtagere.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id87302cda-219c-4fa9-8b8d-a2c86d627561" localId="2">
+            <Explicatus>§ 2.</Explicatus>
+            <Stk id="id9773c0db-b410-43ce-93d7-1553552027bb">
+              <Exitus>
+                <Linea>
+                  <Char>Fleksløntilskuddet efter § 123, stk. 1, i lov om en aktiv beskæftigelsesindsats er fastsat til 98 pct. af arbejdsløshedspengenes højeste beløb, jf. § 47 i lov om arbejdsløshedsforsikring m.v., pr. kalendermåned.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Det beregnede fleksløntilskud efter §§ 3-11, afrundes til nærmeste hele kronebeløb.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="ide415c44b-536c-446c-8756-0f46d7fcc7a7">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Fleksløntilskuddet beregnes på baggrund af et gennemsnitligt antal dage per kalendermåned, svarende til 260 dage/12 = 21,6667 dage pr. kalendermåned.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id274090d5-292e-4198-9b4e-b14e15997486">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Rådighedsvederlag, personligt tillæg m.m., der gives til frivillige brandmænd eller frivillige i beredskaber m.v., medfører ikke fradrag i fleksløntilskuddet.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="idd788b5a0-e93c-48e0-ab95-604251abb246">
+            <Linea>
+              <Char formaChar="Italic">Beregning af og fradrag i fleksløntilskud</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id1ad28a5c-da0b-4f4a-bb71-2ddd22055670" localId="3">
+            <Explicatus>§ 3.</Explicatus>
+            <Stk id="id568e86d3-0b73-428f-94da-91262fe2863f">
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen udbetaler fleksløntilskud til personer i fleksjob som supplement til den løn, der udbetales af arbejdsgiveren.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="ida3778140-58ac-4fca-a4dc-c23382c66077">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Fleksløntilskuddet nedsættes med 30 pct. af lønindtægten, indtil indtægten inkl.</Char>
+                </Linea>
+                <Linea>
+                  <Char>arbejdsgiverens og den ansattes pensionsbidrag pr. måned før skat udgør 16.323 kr. (2024-niveau).</Char>
+                </Linea>
+                <Linea>
+                  <Char>For den lønindtægt, der ligger over 16.323 kr. (2024-niveau) pr. måned før skat, nedsættes fleksløntilskuddet med 55 pct.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idcb6a6fca-f4c7-43ca-9f3e-6c0344e41527">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis fleksløntilskuddet og lønindtægt, syge- eller barselsdagpenge, ressourceforløbsydelse under jobafklaringsforløb, feriegodtgørelse, hjælp til dækning af tabt arbejdsfortjeneste eller plejevederlag m.v. tilsammen udgør mere end lønloftet i den pågældende stilling, jf. § 1, stk. 1, nr. 4, nedsættes fleksløntilskuddet med det overskydende beløb.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="iddf9df7d2-befe-444b-8897-4e39b380272b">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lønindtægt, der dækker arbejde, der udføres over flere måneder, men udbetales efterfølgende, skal fordeles ligeligt månedsvis over den periode, som lønnen dækker.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Beregningen af fleksløntilskuddet efter stk. 2 og 3 sker herefter for den pågældende periode.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der efterreguleres fremadrettet for forskellen mellem det beløb, der er udbetalt i fleksløntilskud, og det beløb, som den fleksjobansatte på baggrund af en beregning af fleksløntilskuddet, er berettiget til.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Efterreguleringen sker efter, at beregningen af fleksløntilskuddet efter stk. 2 og 3 i den pågældende måned er foretaget.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis det er muligt, skal efterreguleringen ske fuldt ud i den følgende måneds fleksløntilskud eller ledighedsydelse.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Er dette ikke muligt, sker fradraget i de følgende måneders fleksløntilskud eller ledighedsydelse.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id2ac3291f-10df-4e1c-bda0-a8dfac21e20c">
+              <Explicatus>Stk. 5.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob har anden lønindtægt eller indtægt fra selvstændig bibeskæftigelse, finder stk. 2 og 3, tilsvarende anvendelse.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idbac64183-ac68-4fcd-be7a-f30ced154ba6">
+              <Explicatus>Stk. 6.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob får udbetalt løn under sygdom, barsel, sorgorlov eller ferie eller modtager feriegodtgørelse under ferie, finder stk. 2 tilsvarende anvendelse.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id230bd5b6-ca61-4c24-8c49-00645cf37d10">
+              <Explicatus>Stk. 7.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Det beregnede tilskud efter stk. 1-6 og §§ 4-13, kan højst udbetales på et niveau, der svarer til ydelse efter § 22, stk. 2 og 3, i lov om aktiv socialpolitik, når personen er omfattet af §§ 131, 132 og 132 a i lov om en aktiv beskæftigelsesindsats.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id00cd31b1-05c2-4424-bdab-13aee3445bd9" localId="4">
+            <Explicatus>§ 4.</Explicatus>
+            <Stk id="id8754049f-5e1b-4a60-9ade-3280d08e56a5">
+              <Exitus>
+                <Linea>
+                  <Char>Fleksløntilskuddet udbetales månedsvis bagud.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Nedsættelsen af fleksløntilskuddet sker bagud i den følgende måned på baggrund af beregning af og fradrag i tilskuddet efter §§ 3-13.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id9273bf61-bbcd-4323-b45f-44f83926d35d">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Frem til der foreligger oplysninger om en hel måneds lønindkomst i indkomstregisteret, beregnes fleksløntilskuddet på baggrund af den forventede lønindtægt.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der skal efterfølgende ske regulering af fleksløntilskuddet på baggrund af den faktisk udbetalte lønindtægt og anden indtægt, jf. §§ 5-11.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id71e72390-1f85-419d-ab65-d92f56079e93">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Lønindtægter, der dækker arbejde, der udføres over flere måneder, kan fordeles månedsvis over denne periode.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id0393b34c-253a-4db8-a9d8-1482b8bee0a7">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Der skal ske efterregulering af fleksløntilskuddet, hvis lønindtægten og andre indtægter efter §§ 3-13 efterfølgende ændres.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Efterregulering kan foretages for en periode på op til 12 måneder.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idce9da9fc-ce27-4209-a173-cdd1fcf9b124">
+              <Explicatus>Stk. 5.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Løn og andre indtægter efter §§ 3-13, som udbetales i måneden efter fleksjobbet er ophørt, og hvor personen ikke påbegynder et nyt fleksjob, skal ikke fradrages i ledighedsydelse efter §§ 74 a og 74 d, medmindre der er tale om lønindtægter efter stk. 3.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id669daa6e-1257-4566-a3df-4c644eb6a309">
+            <Linea>
+              <Char formaChar="Italic">Beregning af feriegodtgørelse</Char>
+            </Linea>
+          </Rubrica>
+          <Rubrica id="idbb3d2edb-fe60-464c-b68e-8b96f7731217">
+            <Linea>
+              <Char formaChar="Italic">Feriegodtgørelse udbetalt af arbejdsgiveren</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id97e1cf28-097e-400c-97ee-6bf0765a0e89" localId="5">
+            <Explicatus>§ 5.</Explicatus>
+            <Stk id="id0834a8ce-f260-49aa-8701-0b071c4b7318">
+              <Exitus>
+                <Linea>
+                  <Char>Feriegodtgørelse, som udbetales af arbejdsgiveren på tidspunktet for feriens afholdelse, fremgår af indkomstregisteret som en del af lønnen og indgår i beregningen af fleksløntilskud, jf. § 3, stk. 6.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id223548d4-59fd-4a9f-b7e5-fe57df9d6d53">
+            <Linea>
+              <Char formaChar="Italic">Feriegodtgørelse indbetalt til Feriekonto, en feriekasse m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id6ab355cb-f92f-491b-a84c-b3aa58103ae8" localId="6">
+            <Explicatus>§ 6.</Explicatus>
+            <Stk id="ida906ca68-dcd4-46f9-84f5-74d5cf8de619">
+              <Exitus>
+                <Linea>
+                  <Char>Feriegodtgørelse, som indbetales til Feriekonto, en feriekasse m.v., indgår i beregning af fleksløntilskuddet, når ferien afholdes.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id7ed1f29f-08f0-4fbc-9dd9-89d2c963d718">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Feriegodtgørelsen fratrækkes lønindtægten på optjeningstidspunktet inden beregning af fleksløntilskuddet.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Feriegodtgørelsen, som fremgår af indkomstregisteret, omregnes til et bruttobeløb.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Omregningen sker ved at lægge skat og arbejdsmarkedsbidrag til nettoferiegodtgørelsen.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idf5c6e85a-f9ae-4ce1-84f3-38f73c0d1fab">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Når den fleksjobansatte afholder ferie med feriegodtgørelse fra Feriekonto, en feriekasse m.v., omregnes feriegodtgørelsen til et bruttobeløb.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Ved omregningen lægges skat og arbejdsmarkedsbidrag til nettoferiegodtgørelsen.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id29e8b596-5c0e-44dc-8285-747ce547f530">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Feriegodtgørelse, jf. stk. 3, indgår som en forholdsmæssig andel af feriegodtgørelsen sat i forhold til antallet af feriedage, som afholdes, i beregningen af fleksløntilskud, jf. § 3, stk. 6.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="idbe0f0464-1322-486f-b6d2-c2e8447da30c">
+            <Linea>
+              <Char formaChar="Italic">Fradrag i fleksløntilskud under sygdom, hvor der ikke udbetales løn</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id43edadf5-e3ff-402d-9355-0fa43cb0ca2a" localId="7">
+            <Explicatus>§ 7.</Explicatus>
+            <Stk id="ide562eda8-01c3-4fef-9a0c-dfb0797c3fa8">
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob ikke modtager løn under sygdom, modtager den pågældende sygedagpenge efter reglerne fastsat i medfør af § 49 i lov om sygedagpenge eller ressourceforløbsydelse efter § 69 j i lov om aktiv socialpolitik.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der sker fuldt fradrag for de udbetalte sygedagpenge eller ressourceforløbsydelse i fleksløntilskuddet, således at der sammenlagt udbetales et beløb svarende til 98 pct. af arbejdsløshedsdagpengenes højeste beløb.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="ide95bd6d6-832a-4f45-a668-0b5027961ba6">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis der i en måned modtages både løn og sygedagpenge efter reglerne fastsat i § 49 i lov om sygedagpenge eller ressourceforløbsydelse under jobafklaringsforløb efter § 69 j i lov om aktiv socialpolitik, fradrages den beregnede lønindtægt, jf. § 3, stk. 2, og sygedagpenge eller ressourceforløbsydelsen samlet i fleksløntilskuddet for den efterfølgende måned, jf. § 4, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id662fc03e-6ed9-41a4-874c-c713988af3af">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob, som ikke modtager løn under sygdom, mister retten til sygedagpenge efter reglerne i lov om sygedagpenge, herunder som følge af varighedsbegrænsningen, foretages der fradrag i fleksløntilskuddet for det fulde beløb, som den pågældende ville kunne have modtaget i sygedagpenge.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Beregningen foretages på baggrund af det beløb, der er udbetalt i sygedagpenge i den forudgående måned, inden retten til sygedagpenge er mistet, jf. dog § 3, stk. 7.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis der modtages løn i samme måned, sker fradraget i fleksløntilskuddet efter stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id407cd06c-f666-4980-a446-3d4590b5406a">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob, som ikke modtager løn under sygdom, får foretaget fradrag i eller helt mister retten til ressourceforløbsydelse efter reglerne i §§ 69 l-q i lov om aktiv socialpolitik, foretages der fradrag i fleksløntilskuddet for det fulde beløb, som den pågældende kunne have modtaget i ressourceforløbsydelse, jf. dog § 3, stk. 7.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis der modtages løn i samme måned, sker fradraget i fleksløntilskuddet efter stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idc12a077c-facd-4734-b284-8e4aa53c5c38">
+              <Explicatus>Stk. 5.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob, som ikke modtager løn under sygdom, ikke kan modtage sygedagpenge på grund af for sen anmodning om sygedagpenge, foretages der fradrag i fleksløntilskuddet for det fulde beløb, som den pågældende ville have været berettiget til at modtage i sygedagpenge, jf. dog § 3, stk. 7.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis der modtages løn i samme måned, sker fradraget i fleksløntilskuddet efter stk. 2.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+          <Paragraf id="id2c8d0fbe-ee2b-49c8-a2f2-9f90fbbfbdaf" localId="8">
+            <Explicatus>§ 8.</Explicatus>
+            <Stk id="idfd8918eb-a7de-4d5b-a6ee-8adbcb5f75f8">
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob, som ikke modtager løn under sygdom, delvist genoptager arbejdet, foretages der fuldt fradrag i fleksløntilskuddet for sygedagpenge eller ressourceforløbsydelse, som den pågældende er berettiget til, og der sker samtidig nedsættelse af fleksløntilskuddet for lønindtægten, jf. § 3, stk. 2-4 og § 7, stk. 1 og 2.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="iddbffe69e-bac0-4a13-a4fb-dd25996f630a">
+            <Linea>
+              <Char formaChar="Italic">Fradrag i fleksløntilskud under barsel eller sorgorlov, hvor der ikke udbetales løn</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="idf0e322ba-2aa6-4206-93b0-cda79eb1cf7d" localId="9">
+            <Explicatus>§ 9.</Explicatus>
+            <Stk id="id30113101-b5de-4b51-83e9-c97d32272e01">
+              <Exitus>
+                <Linea>
+                  <Char>Hvis en ansat i fleksjob ikke modtager løn under barsel eller sorgorlov, modtager den pågældende barselsdagpenge efter reglerne fastsat i medfør af § 34 i lov om ret til orlov og dagpenge ved barsel.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der sker fuldt fradrag for de udbetalte barselsdagpenge i fleksløntilskuddet, således at der sammenlagt udbetales et beløb svarende til 98 pct. af arbejdsløshedsdagpengenes højeste beløb, jf. dog § 3, stk. 7.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="ida0f1e0d4-fb86-4177-bb5a-89a0ea55fc14">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis der i en måned modtages både løn og barselsdagpenge efter reglerne fastsat i medfør af § 34 i lov om ret til orlov og dagpenge ved barsel, fradrages den beregnede løn, jf. § 3, stk. 2, og barselsdagpenge samlet i fleksløntilskuddet for den efterfølgende måned, jf. § 4, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id773cd388-7598-4670-9d6f-3bd4e122aa88">
+            <Linea>
+              <Char formaChar="Italic">Fradrag i fleksløntilskud, hvis der udbetales ledighedsydelse under ferieafholdelse</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id67e7ba43-99b9-43fc-8974-750eca6660c7" localId="10">
+            <Explicatus>§ 10.</Explicatus>
+            <Stk id="idcebb0e90-39eb-44d9-8724-4c33578bda48">
+              <Exitus>
+                <Linea>
+                  <Char>Hvis den ansatte i et fleksjob ikke har optjent ret til 25 dage med løn under ferie eller feriegodtgørelse, kan den pågældende modtage ledighedsydelse for de dage, hvor der ikke er optjent ret til ferie med løn eller feriegodtgørelse.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Der kan højest udbetales ledighedsydelse og ferie med løn eller feriegodtgørelse for sammenlagt 25 dage.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id7c04daee-18e2-4a33-aa40-74feccd48076">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Der kan ikke udbetales fleksløntilskud for de dage, hvor der udbetales ledighedsydelse under ferie.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Det beregnede fleksløntilskud efter § 3 skal reduceres forholdsmæssigt på baggrund af det antal dage, der udbetales ledighedsydelse for.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Beregningen foretages bagud i den følgende måned, jf. § 4, stk. 1, således at der sker forholdsmæssig nedsættelse af fleksløntilskuddet i måneden efter, at ledighedsydelsen er udbetalt.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Fleksløntilskuddet i 3. pkt. beregnes på baggrund af lønindtægten i den eller de måneder, hvor der holdes ferie.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id389c7923-42d3-47d1-b51a-872f3a5ab9ce">
+            <Linea>
+              <Char formaChar="Italic">Fradrag i fleksløntilskud ved udbetaling af hjælp til dækning af tabt arbejdsfortjeneste eller plejevederlag</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id3baf6e76-8be2-4ff8-8afd-209b28edf23f" localId="11">
+            <Explicatus>§ 11.</Explicatus>
+            <Stk id="id9c6f7afd-fe38-42f0-a6c3-978a5e04353d">
+              <Exitus>
+                <Linea>
+                  <Char>Modtager den ansatte i et fleksjob hjælp til dækning af tabt arbejdsfortjeneste efter § 87 i barnets lov eller efter den hidtil gældende § 42 i lov om social service, jf. lovbekendtgørelse nr. 1089 af 16. august 2023, jf. § 213, stk. 2, i lov nr. 721 af 13. juni 2023 eller plejevederlag efter § 90, stk. 1, nr. 12, i barnets lov eller §§ 119-121 i lov om social service, sker fradrag i og beregning af fleksløntiskud som ved lønindtægt, jf. §§ 3 og 4.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id9783b5fa-cb7d-44af-8132-8a8292d81538">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis der både udbetales løn og indtægt efter stk. 1, lægges fradraget for løn og indtægter efter stk. 1, sammen og fradrages samlet i fleksløntilskuddet for den efterfølgende måned, jf. § 4, stk. 1.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="ida78d418c-368e-4dbe-b501-eb47ea2eadfa">
+            <Linea>
+              <Char formaChar="Italic">Lønloft</Char>
+            </Linea>
+          </Rubrica>
+          <Rubrica id="idd3550fc7-b890-4a20-abe8-3346cb701bff">
+            <Linea>
+              <Char formaChar="Italic">Oplysninger fra arbejdsgiveren om indtægter der indgår i lønloftet</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="ida01c9158-2d9a-4f42-8e61-5a89c543d861" localId="12">
+            <Explicatus>§ 12.</Explicatus>
+            <Stk id="id8f0095b3-ad44-4f59-8261-1f37e094c382">
+              <Exitus>
+                <Linea>
+                  <Char>Det er arbejdsgiveren, som skal oplyse, hvad den fleksjobansatte ville få i løn, hvis den pågældende var ansat på fuld tid i samme stilling på ordinære vilkår.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Dette udgør lønloftet i det konkrete fleksjob, jf. § 1, stk. 1, nr. 4.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id01c6f346-0557-46fa-bd08-da5a0b5087a8">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>De oplysninger, der kan indgå i fastsættelsen af lønloftet, er bl.a.:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus id="ida7fe98a9-d17e-413f-89d8-8d7e713a0ef1">
+                <Index>
+                  <Indentatio id="id90da091d-e80a-4081-bfbd-bdc05cadd6df" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Lønnen for fuld tid.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id5864a269-f032-4c13-9628-6cdcbf5417d1" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Timelønnen uden nedsættelse på grund af nedsat arbejdsintensitet.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id04779d51-7759-4ca9-a1e4-2b7be8d7b053" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Resultatløn.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="iddc70dfc9-8431-484e-a6f8-7dd1414fa673" formaInd="Nummer">
+                    <Explicatus>4)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiverens bidrag til en pensionsordning, hvis den ansatte har en pensionsordning.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>Den ansattes andel af bidrag til en pensionsordning skal kun indgå i beregningen, hvis bidraget til pensionsordningen ikke er fratrukket den ansattes løn.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="ida188f33b-39be-492f-99ad-6daf121ff7d7" formaInd="Nummer">
+                    <Explicatus>5)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Fritvalgsordning og/eller søgnehelligdagskonto, herunder om de bliver udbetalt løbende eller efter anmodning fra den ansatte.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id6e83ec66-590a-492b-991c-968059c36852" formaInd="Nummer">
+                    <Explicatus>6)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Faste tillæg.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id2d0091d2-4a50-481a-ae7b-f7fb44d46e8c" formaInd="Nummer">
+                    <Explicatus>7)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Variable tillæg eller engangstillæg.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id4c6da126-285f-46f1-8f13-bd2c23cf1132" formaInd="Nummer">
+                    <Explicatus>8)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Genetillæg.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id7a7a7e26-e588-479e-b1f0-672012c6124e" formaInd="Nummer">
+                    <Explicatus>9)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Tillæg for weekend, aften eller nattevagter, hvis den ansatte har vagter.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id8396d803-a4f2-4481-88c7-05d7d98ed345" formaInd="Nummer">
+                    <Explicatus>10)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Bonusordninger.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="id68ed2eab-558b-4c65-881d-2faba27be25b" formaInd="Nummer">
+                    <Explicatus>11)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Feriegodtgørelse, ferietillæg og feriedifference.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Stk>
+            <Stk id="id7793d853-a758-4842-b7ae-0ce5766c5c6a">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunerne kan bl.a. få oplysninger, der skal indgå i lønloftet, på følgende måder:</Char>
+                </Linea>
+              </Exitus>
+              <Exitus id="id1e5a4c0f-c83b-4260-8e09-69f5346a936f">
+                <Index>
+                  <Indentatio id="id42e0aac0-ee0d-49aa-b473-b16c2a58b739" formaInd="Nummer">
+                    <Explicatus>1)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren oplyser om det samlede lønloft for en måned, 14-dage, pr. uge eller pr. time inkl.</Char>
+                      </Linea>
+                      <Linea>
+                        <Char>samtlige lønandele, som indgår i lønloftet, jf. stk. 2.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="ided4acdab-55a2-4346-b8af-ad1dacd45bc0" formaInd="Nummer">
+                    <Explicatus>2)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Arbejdsgiveren oplyser om timeløn, eventuelle tillæg mv., som den ansatte er omfattet af, jf. stk. 2.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                  <Indentatio id="ida94bc4da-1ca6-4d05-ae6e-678752fb98ad" formaInd="Nummer">
+                    <Explicatus>3)</Explicatus>
+                    <Exitus>
+                      <Linea>
+                        <Char>Kommunen anvender den ansattes lønseddel fra arbejdsgiveren for at se, hvilke løn og tillæg mv., som den ansatte modtager i samlet løn.</Char>
+                      </Linea>
+                    </Exitus>
+                  </Indentatio>
+                </Index>
+              </Exitus>
+            </Stk>
+            <Stk id="id2209e23b-bf33-4b95-933b-f20acc04799e">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Fritvalgsordning og/eller søgnehelligdagskonto, der udbetales løbende, vil indgå i opgørelsen af lønloftet hver måned.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Fritvalgsordning og/eller søgnehelligdagskonto, der udbetales én eller flere gange årligt, vil alene indgå i opgørelsen af lønloftet for den måned, hvor fritvalgsordningen og/eller søgnehelligdagskontoen udbetales.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="idfa610d4d-720b-4829-a585-c90689d39e03">
+            <Linea>
+              <Char formaChar="Italic">Beregning af lønloft</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="idaa5eae4c-c481-4a7a-9d8b-ddea798ccfd2" localId="13">
+            <Explicatus>§ 13.</Explicatus>
+            <Stk id="id6574528f-14aa-4a5e-85df-83c5414dfd31">
+              <Exitus>
+                <Linea>
+                  <Char>En kommune kan beregne lønloftet, hvis arbejdsgiveren ikke har oplyst eller har svært ved at oplyse lønloftet og f.eks. alene kan oplyse om timeløn og eventuelle tillæg m.v., jf. § 12, stk. 2.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Konstaterer kommunen, at der er uoverensstemmelser mellem de faktiske forhold, som fremgår af lønsedler og oplysninger fra indkomstregisteret og det lønloft, som arbejdsgiveren har oplyst, skal kommunen kontakte arbejdsgiveren med henblik på at de rette oplysninger lægges til grund for beregningen af lønloftet.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Kommunen kan alene ændre på lønloftet, hvis arbejdsgiveren bekræfter de oplysninger, som der er uenighed om.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idff0eed35-81e0-432c-adc7-77e533d575c7">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Hvis kommunen har fået oplyst timeløn samt eventuelle tillæg, kan kommunen beregne lønloftet ved at lægge alle løndele sammen og gange med 160,333 for at finde lønloftet for en måned.</Char>
+                </Linea>
+                <Linea>
+                  <Char>Hvis personen er 14-dageslønnet, kan kommunerne beregne lønloftet for 14 dage ved at gange timeløn med tillæg med 74 timer.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id1cc25c76-9212-43db-a28d-3919c91b0adf">
+            <Linea>
+              <Char formaChar="Italic">Indhentelse af oplysninger om løn, feriegodtgørelse m.v.</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="id58736ecc-c0ca-45dd-9e04-2cf5854c1307" localId="14">
+            <Explicatus>§ 14.</Explicatus>
+            <Stk id="ide34a834e-0cf2-4cc1-ae39-ce5e7b0a5794">
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal ved beregningen af fleksløntilskuddet anvende oplysninger om løn, løn under sygdom eller barsel, syge- eller barselsdagpenge, feriegodtgørelse m.v., som er indberettet til indkomstregisteret, jf. § 139, stk. 1, i lov om en aktiv beskæftigelsesindsats.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idfc201a67-3f93-4ac0-af21-07220c5ab478">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen kan endvidere indhente oplysninger om ferie og feriegodtgørelse, som er registreret i Feriekonto via den elektroniske adgang, som Feriekonto stiller til rådighed.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I det omfang feriegodtgørelsen ikke er indberettet til indkomstregisteret, jf. lov om et indkomstregister, og personen på anden vis kan dokumentere bruttoferiegodtgørelsen f.eks. via en lønseddel, kan kommunen anvende denne dokumentation ved beregning af fleksløntilskuddet.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id3aea244f-1bbe-421f-b8df-ba6f4cd6a986">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal indhente oplysninger, som ikke fremgår af indkomstregisteret, om f.eks. lønindtægter, indtægter fra selvstændig bibeskæftigelse, feriegodtgørelse, periode for ferieafholdelse m.v., fra den ansatte i fleksjobbet efter reglerne i § 11, stk. 1, i lov om retssikkerhed og administration på det sociale område.</Char>
+                </Linea>
+                <Linea>
+                  <Char>I det omfang en arbejdsgiver har pligt til at indberette oplysninger til indkomstregistret, og dette ikke er sket, skal kommunen oplyse om, at pågældende arbejdsgiver fremadrettet skal indberette indkomsten til indkomstregistret, jf. lov om et indkomstregister.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id45e352bf-8929-437e-8497-11607f4caf5e">
+              <Explicatus>Stk. 4.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Kommunen skal beregne det beløb, som den pågældende ville have været berettiget til, jf. § 7, stk. 4, efter reglerne fastsat i medfør af § 49 i lov om sygedagpenge.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+        <ParagrafGruppe>
+          <Rubrica id="id9e28ccf5-ce94-4ba1-bfc4-7a951ad7ab54">
+            <Linea>
+              <Char formaChar="Italic">Ikrafttræden</Char>
+            </Linea>
+          </Rubrica>
+          <Paragraf id="ida8ea5875-c1e1-4833-85f2-8e2b79562a01" localId="15">
+            <Explicatus>§ 15.</Explicatus>
+            <Stk id="id3442a25b-cb05-48e8-9bbb-2a11c841b93c">
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen træder i kraft den 11. marts 2024.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="idf6c9567b-7f33-4741-8e94-3ad78d07679b">
+              <Explicatus>Stk. 2.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelsen har virkning for lønindtægter m.v., jf. §§ 3-13 fra den 1. januar 2024.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+            <Stk id="id037a1e00-6b44-4829-b566-467c57c864db">
+              <Explicatus>Stk. 3.</Explicatus>
+              <Exitus>
+                <Linea>
+                  <Char>Bekendtgørelse nr. 1806 af 28. december 2023 om beregning af og fradrag i fleksløntilskud ophæves.</Char>
+                </Linea>
+              </Exitus>
+            </Stk>
+          </Paragraf>
+        </ParagrafGruppe>
+      </Kapitel>
+    </Afsnit>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id8292b82b-ded9-4897-a16f-4d81fbba9932">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>
