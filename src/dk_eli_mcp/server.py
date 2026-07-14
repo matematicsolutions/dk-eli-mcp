@@ -23,6 +23,7 @@ from mcp.types import ToolAnnotations
 
 from .audit import AuditLogger, hash_input, timer
 from .citations import build_record
+from . import runtime
 from .client import DEFAULT_API_URL, DEFAULT_BASE_URL, RetsinfoClient
 from .models import Act, LawText, RecentChange, RecentChangesResult
 
@@ -81,7 +82,7 @@ mcp: FastMCP = FastMCP(name="dk-eli-mcp", instructions=INSTRUCTIONS)
 
 
 def _base_url() -> str:
-    return os.environ.get("DK_ELI_BASE_URL", DEFAULT_BASE_URL).rstrip("/")
+    return os.environ.get("DK_ELI_BASE_URL", runtime.base_url("eli", DEFAULT_BASE_URL)).rstrip("/")
 
 
 def _api_url() -> str:
