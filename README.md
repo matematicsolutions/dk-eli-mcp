@@ -56,6 +56,25 @@ pip install -e .
 }
 ```
 
+### Windows 11 ze Smart App Control
+
+Smart App Control blokuje niepodpisane pliki wykonywalne, a `uvx.exe`, `pip.exe`
+i generowany przy instalacji `dk-eli-mcp.exe` podpisane nie sa. `python.exe`
+z python.org jest podpisany przez Python Software Foundation, wiec uruchomienie
+przez modul omija blokade:
+
+```bash
+python -m pip install dk-eli-mcp
+python -m dk_eli_mcp
+```
+
+```json
+{ "mcpServers": { "dk-eli-mcp": { "command": "python", "args": ["-m", "dk_eli_mcp"] } } }
+```
+
+Nie wylaczaj Smart App Control, zeby to obejsc - wylaczenia nie da sie cofnac
+bez ponownej instalacji systemu.
+
 Environment:
 
 - `DK_ELI_BASE_URL` - default `https://www.retsinformation.dk`
