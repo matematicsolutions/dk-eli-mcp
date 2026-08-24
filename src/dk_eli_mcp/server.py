@@ -39,6 +39,7 @@ This MCP server exposes the Danish Retsinformation legal database (retsinformati
 
 ## Hard constraints
 
+- **Do not answer past the edge of this corpus** - when a search comes back empty, or the question touches material this connector does not carry, call `dk_coverage` and relay what it says is missing. Absence here is not absence in the law.
 - **No free-text search** - addressed by ELI coordinate (year + number) or accession, not keywords. You must know the coordinates (a Danish citation gives them, e.g. "LOV nr. 502 af 23/05/2018"); or discover recent ones via `dk_recent_changes`. Relay the `dataset_note`.
 - **ELI is the key to citability** - the ELI is the retsinformation.dk/eli/... URL; do not invent it. It is built from the document's own metadata.
 - **Verbatim text** - `dk_get_text` returns the official LexDania XML unchanged; do not paraphrase the law as if it were the text.
