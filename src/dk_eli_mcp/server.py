@@ -26,6 +26,7 @@ from .citations import build_record
 from . import runtime
 from .client import DEFAULT_API_URL, DEFAULT_BASE_URL, RetsinfoClient
 from .models import Act, LawText, RecentChange, RecentChangesResult
+from .coverage import Coverage, build_coverage
 
 INSTRUCTIONS = """\
 This MCP server exposes the Danish Retsinformation legal database (retsinformation.dk), the official source of Danish legislation, published as Open Data. Denmark is ELI-native: every document has a stable ELI URL. The server grounds Danish acts by ELI coordinate (year + number in the `lta` collection = Lovtidende A) or by accession number, and lists documents changed on a date. Every response carries a stable `eli_uri`, a `human_readable_citation` and a `source_url` (the citation contract).
@@ -227,6 +228,20 @@ async def dk_get_text(
 
 # ---------------------------------------------------------------------------
 # dk_recent_changes
+@mcp.tool(annotations=READ_ONLY)
+async def dk_coverage() -> Coverage:
+    """Declare what this connector covers, how it is sourced, and what it does NOT cover.
+
+    Call this before telling a user that the law "does not contain" something, and whenever
+    a search comes back empty: the absence may be a gap in this connector rather than in the
+    law. Every gap carries a fallback saying where to look instead.
+
+    Returns:
+        ``Coverage`` with families, an as-of note, and a non-empty list of known gaps.
+    """
+    return build_coverage()
+
+
 # ---------------------------------------------------------------------------
 
 

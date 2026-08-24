@@ -26,6 +26,7 @@ has a stable `data.europa.eu/eli`-typed identifier exposed as a `retsinformation
 | `dk_get_act` | Metadata for a document by year + number, or by accession. |
 | `dk_get_text` | Full LexDania XML of a document (verbatim official text). |
 | `dk_recent_changes` | Documents changed on a given date (harvest API). |
+| `dk_coverage` | Declare what this connector covers, when each family was captured, and - explicitly - what it does NOT cover. Every gap carries a fallback. |
 
 Every response carries the contract: `eli_uri` (a full ELI URL, e.g.
 `https://www.retsinformation.dk/eli/lta/2018/502`), `human_readable_citation`
